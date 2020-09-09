@@ -5,9 +5,11 @@ Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 6
 
    uptick.account
    uptick.api
+   uptick.bip38
    uptick.callorders
    uptick.cli
    uptick.committee
@@ -20,6 +22,7 @@ Submodules
    uptick.message
    uptick.proposal
    uptick.rpc
+   uptick.ticket
    uptick.tools
    uptick.ui
    uptick.vesting
